@@ -1,0 +1,26 @@
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.csprojAssemblyReference.cache
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.Main_Form.resources
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.LogonForm.resources
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.Properties.Resources.resources
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.RegistrationForm.resources
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.csproj.GenerateResource.cache
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.csproj.CoreCompileInputs.cache
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\bin\Debug\Test_Forms.exe.config
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\bin\Debug\Test_Forms.exe
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\bin\Debug\Test_Forms.pdb
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.HelpInfo.resources
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.exe
+E:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.pdb
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\bin\Debug\Test_Forms.exe.config
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\bin\Debug\Test_Forms.exe
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\bin\Debug\Test_Forms.pdb
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.csprojAssemblyReference.cache
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.HelpInfo.resources
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.Main_Form.resources
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.LogonForm.resources
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.Properties.Resources.resources
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.RegistrationForm.resources
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.csproj.GenerateResource.cache
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.csproj.CoreCompileInputs.cache
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.exe
+E:\Programming\C#\FreeLance\Валерий Иванов\Test_Forms\Test_Forms\obj\Debug\Test_Forms.pdb

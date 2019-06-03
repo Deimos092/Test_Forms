@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Test_Forms.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PathStudents" Type="System.String" Scope="User">
+      <Value Profile="(Default)">e:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\DataBase\Users.txt</Value>
+    </Setting>
+    <Setting Name="PathQA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">e:\Programming\C#\FreeLance\Артем_Романов\Test_Forms\DataBase\QA.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

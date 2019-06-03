@@ -1,0 +1,30 @@
+Какой класс нужно ввести для работы со строками
+System.Text;:System.IO;:System.String;:System.Lines;
+System.String;
+Определите верный синтаксис инициализации строки
+string str = "string":string str = new String("a",10):str string = "mystring":str string = new String("Hello",10)
+string str = "string"
+Какой из методов вставляет в строку подстроку
+Join():Insert():Trim():Substring()
+Insert()
+Каким из методов лучше удалить пробелы в начале и конце строки
+Trim():Contains():Split():Replace()
+Trim()
+Как можно обратиться по индексу к символу в строке
+Char s = myString(1):Char s = myString["a"]:Char s = myString[myString.Length - 1]:Char s = myString[-1]
+Char s = myString[myString.Length - 1]
+К Каком типу относиться строковые переменные
+Значимый тип:Ссылочный тип:Тип Коллекции:Тип Событий
+Ссылочный тип
+Какими методам(и) нельзя обьединять строки вместе
+Оператором Add():Оператором +:Методом Concat():Методом Join()
+Оператором Add()
+Какими методам(и) можно сравнять строки вместе
+Оператором =:Оператором &&:Методом Compare():Методом Contains()
+Методом Compare()
+Как создать подстроку из 10 символов из основного текста
+text = text.Substring(10):text = text.Substring(0,10):text = text.Split(10):text = text.Split(0,10)
+text = text.Substring(0,10)
+Какой из следующих вариантов форматирования строки не верный
+Console.Write("Имя {0}",Name):Console.Write($"{Value,-5}"):Console.Write("{1},{2},{3}",Name,Age,Country):Console.Write("Hello " + Name + " Age = " + Age)
+Console.Write("{1},{2},{3}",Name,Age,Country)
